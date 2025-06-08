@@ -21,9 +21,6 @@ This repository contains R script and supplementary files used for the analyses 
 ## Citation
 
 If you use this material, please cite:
-## Citation
-
-If you use this material, please cite:
 
 Pandolfi et al. (2025). *Supplementary material for Pandolfi et al. (2025) "Experimental assessment of the effects of sustainable landscaping practices on beetles in a new residential land development"* [Data and code archive]. Zenodo. DOI [insert Zenodo DOI here].
 
