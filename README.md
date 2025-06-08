@@ -1,4 +1,4 @@
-#  R Script and Supplementary Files for PeerJ Submission
+#  R Script and Supplementary Files for Pandolfi et al. (2025)
 
 This repository contains R script and supplementary files used for the analyses in the manuscript:
 
