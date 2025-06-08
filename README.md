@@ -26,4 +26,4 @@ Pandolfi et al. (2025). *Supplementary material for Pandolfi et al. (2025) "Expe
 
 ## Contact
 
-For questions, contact: Alessandra Pandolfi, alessandra.pandolfi@ucf.edu or pndalessandra@gmail.com, https://orcid.org/0000-0001-8353-243X
+For questions, contact: Alessandra Pandolfi, alessandra.pandolfi@ucf.edu or pndalessandra@gmail.com, ORCID: 0000-0001-8353-243X
