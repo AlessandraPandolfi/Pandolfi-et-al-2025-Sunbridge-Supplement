@@ -1,6 +1,8 @@
-#  R Script and Supplementary Material for Pandolfi et al. (2025) Experimental assessment of the effects of sustainable landscaping practices on beetles in a new residential land development
+#  R Script and Supplementary Material for Pandolfi et al. (2025) 
 
-This repository contains R script and supplementary files used for the analyses. 
+This repository contains R script and supplementary files used for the analyses in the manuscript:
+
+"*Experimental assessment of the effects of sustainable landscaping practices on beetles in a new residential land development*"
 
 ## How to use R Script and Data
 
